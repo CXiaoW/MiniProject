@@ -1,1 +1,1 @@
-This is for homework submission.
+Mini Project is a course that focus on machine learning projects. In this course, classification and segmentation will be taught. This repository is for the submission of tutorial exercises and assignment. The assignment is to classify the traffic sign into the respective classes.
